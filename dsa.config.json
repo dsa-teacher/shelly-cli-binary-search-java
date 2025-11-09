@@ -1,0 +1,9 @@
+{
+  "moduleId": "binary-search",
+  "language": "Java",
+  "testCommand": "bash tests/run.sh",
+  "reportFile": ".dsa-report.json",
+  "projectId": "TBD",
+  "projectToken": "TBD"
+}
+

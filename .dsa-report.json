@@ -1,0 +1,25 @@
+{
+  "moduleId": "binary-search",
+  "summary": "2/4 tests passed",
+  "pass": false,
+  "cases": [
+    {
+      "subchallengeId": "empty-array",
+      "passed": true
+    },
+    {
+      "subchallengeId": "found-index",
+      "passed": false,
+      "message": "Should find element at index 0 \u003d\u003d\u003e expected: \u003c0\u003e but was: \u003c-1\u003e"
+    },
+    {
+      "subchallengeId": "not-found",
+      "passed": true
+    },
+    {
+      "subchallengeId": "bounds",
+      "passed": false,
+      "message": "Should find first element \u003d\u003d\u003e expected: \u003c0\u003e but was: \u003c-1\u003e"
+    }
+  ]
+}
